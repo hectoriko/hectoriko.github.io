@@ -7,6 +7,8 @@ Siempre me ha apasionado como color, forma y tipografía se unen para expresar u
 ![Foto de Héctor](https://hectormartindesign.com/resources/images/hector_portada_hoodie.png)
 
 
+Puedes visitar mi web [www.hectormartindesign.com](https://www.hectormartindesign.com)
+
 
 <!---
 - 👋 Hola, Soy Héctor Martín. Maquetador web & diseñador gráfico
