@@ -1,16 +1,15 @@
-- 👋 Hola, Soy Héctor Martín. Maquetador web & diseñador gráfico
-
 # Soy Héctor,
 
-## MAQUETADOR WEB
-## & DISEÑADOR GRÁFICO
+## MAQUETADOR WEB & DISEÑADOR GRÁFICO
 
-Siempre me ha apasionado como color, forma y tipografía 
-se unen para expresar una idea. Ya sea en formato web o impreso. 
-Por eso me encanta tanto diseñar teniendo en cuenta la experiencia 
-de usuario, como desarrollar esas ideas de la forma mas eficiente posible.
+Siempre me ha apasionado como color, forma y tipografía se unen para expresar una idea. Ya sea en formato web o impreso. Por eso me encanta tanto diseñar teniendo en cuenta la experiencia de usuario, como desarrollar esas ideas de la forma mas eficiente posible.
+
+![Foto de Héctor](https://hectormartindesign.com/resources/images/hector_portada_hoodie.png)
+
+
 
 <!---
+- 👋 Hola, Soy Héctor Martín. Maquetador web & diseñador gráfico
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
